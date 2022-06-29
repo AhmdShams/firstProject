@@ -1,0 +1,1 @@
+document.write("<p>hello, test main.js script</p>")
